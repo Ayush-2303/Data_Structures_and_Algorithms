@@ -11,5 +11,5 @@ public class Contains_duplicates_using_hashmap {
                     Seen.add(val);
                 }
             }return false;
-        }
+       }
     }
